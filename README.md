@@ -10,10 +10,9 @@
 ![Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%201.png)
 
 ---
-[Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%202.png)
+![Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%202.png)
 
 ---
 
 ## Design Link
-
-![![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)](https://www.figma.com/design/iw3aMYOsd8O69O8ogE4tk5/Collaborative-Desing-Tool?node-id=3-502&t=Hy0agxuy1NQzQE6P-1)
+[Design LInk](https://www.figma.com/design/iw3aMYOsd8O69O8ogE4tk5/Collaborative-Desing-Tool?node-id=3-502&t=Hy0agxuy1NQzQE6P-1)
