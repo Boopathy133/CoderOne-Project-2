@@ -16,4 +16,4 @@
 
 ## Figma Link
 
-![](https://www.figma.com/design/iw3aMYOsd8O69O8ogE4tk5/Collaborative-Desing-Tool?node-id=3-502&t=Hy0agxuy1NQzQE6P-1)
+![link](https://www.figma.com/design/iw3aMYOsd8O69O8ogE4tk5/Collaborative-Desing-Tool?node-id=3-502&t=Hy0agxuy1NQzQE6P-1)
