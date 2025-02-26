@@ -10,7 +10,7 @@
 ![Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%201.png)
 
 ---
-![Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%202.png)
+[Collaborative Design Tool](https://github.com/Boopathy133/CoderOne-Project-2/blob/d541bef6672703071353e724c4dbd72b234d4756/Collabarative%20Design%20Tool/Collabarative%202.png)
 
 ---
 
